@@ -17,7 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bcce9ed-959b-4f07-b6ca-162436cdf0a7" name="Default Changelist" comment="done date">
-      <change afterPath="$PROJECT_DIR$/classCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classCircle.html" beforeDir="false" afterPath="$PROJECT_DIR$/classCircle.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603331597459</updated>
-      <workItem from="1603331599181" duration="5089000" />
+      <workItem from="1603331599181" duration="15522000" />
     </task>
     <task id="LOCAL-00001" summary="done date">
       <created>1603337321731</created>
@@ -119,5 +123,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603332996033" />
+    <state x="618" y="166" key="run.anything.popup" timestamp="1603341249963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="618" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603341249963" />
   </component>
 </project>
